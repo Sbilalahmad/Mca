@@ -1,0 +1,4 @@
+Inputs: It receives one or more input signals (data).
+Weights: Each input has a "weight" associated with it. The weight signifies the importance of that input. A higher weight means that input is more influential.
+Bias: A special value that helps shift the output. Think of it as a thumb on the scale, making it easier or harder for the neuron to activate.
+Activation Function: The neuron sums up all the weighted inputs and the bias. The activation function then decides if this signal is important enough to pass on. It acts like an "on/off" switch or a dimmer swit
