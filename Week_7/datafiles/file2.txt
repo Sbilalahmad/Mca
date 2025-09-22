@@ -1,3 +1,3 @@
 Artificial Intelligence (AI): The broadest concept. The goal is to create machines that can think or act intelligently.
-Machine Learning (ML): A subset of AI. Instead of explicitly programming rules, we give a machine lots of data and let it learn the rules and patterns itself.
-Deep Learning (DL): A subset of ML. It uses a specific technique called Artificial Neural Networks with many
+Bias: A special value that helps shift the output. Think of it as a thumb on the scale, making it easier or harder for the neuron to activate.
+Activation Function: The neuron sums up all the weighted inputs and the bias. The activation function then decides if this signal is important enough to pass on. It acts like an "on/off" switch or a dimmer swit
