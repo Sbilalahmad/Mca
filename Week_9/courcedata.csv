@@ -1,0 +1,102 @@
+Program,Course
+MCA,Database
+MCA,Java
+MCA,Data Structure
+MCA,Web Technologies
+MCA,Software Engineering
+MCA,Artificial Intelligence
+MCA,Python
+MCA,Operating Systems
+MCA,Cloud Computing
+MCA,Network Security
+M.Sc CS,Advanced Algorithms
+M.Sc CS,Machine Learning
+M.Sc CS,Data Mining
+M.Sc CS,Cryptography
+M.Sc CS,Big Data Analytics
+B.Tech CSE,C++ Programming
+B.Tech CSE,Data Structures
+B.Tech CSE,Algorithms
+B.Tech CSE,Database Management
+B.Tech CSE,Computer Networks
+B.Tech CSE,Compiler Design
+B.Tech CSE,Java
+B.Tech CSE,Web Development
+B.Sc CS,Python
+B.Sc CS,Introduction to C
+B.Sc CS,Digital Electronics
+B.Sc CS,Operating System Concepts
+B.Sc CS,Data Structures using C
+B.Sc CS,SQL
+BCA,Fundamentals of IT
+BCA,Programming in C
+BCA,Database Systems
+BCA,Object Oriented Programming
+BCA,Web Design
+BCA,Computer Graphics
+MBA,Financial Management
+MBA,Marketing Strategy
+MBA,Human Resource Management
+MBA,Business Analytics
+MBA,Operations Management
+MBA,Managerial Economics
+MBA,Corporate Finance
+MBA,International Business
+BBA,Principles of Management
+BBA,Business Communication
+BBA,Accounting
+BBA,Microeconomics
+BBA,Marketing Fundamentals
+BBA,Business Law
+M.Tech ME,Advanced Thermodynamics
+M.Tech ME,Robotics
+M.Tech ME,Finite Element Analysis
+M.Tech ME,CAD/CAM
+M.Tech ME,Fluid Dynamics
+B.E. ME,Engineering Graphics
+B.E. ME,Mechanics
+B.E. ME,Thermodynamics
+B.E. ME,Manufacturing Technology
+B.E. ME,Fluid Mechanics
+B.E. ME,Machine Design
+B.Tech ECE,Analog Circuits
+B.Tech ECE,Digital Logic Design
+B.Tech ECE,Signals and Systems
+B.Tech ECE,Microprocessors
+B.Tech ECE,VLSI Design
+B.Tech ECE,Control Systems
+M.Sc Physics,Quantum Mechanics
+M.Sc Physics,Electrodynamics
+M.Sc Physics,Statistical Physics
+M.Sc Physics,Nuclear Physics
+M.Sc Physics,Solid State Physics
+B.Sc Physics,Mechanics
+B.Sc Physics,Optics
+B.Sc Physics,Electricity & Magnetism
+B.Sc Physics,Modern Physics
+B.Sc Physics,Electronics
+M.Sc Chemistry,Organic Synthesis
+M.Sc Chemistry,Physical Chemistry
+M.Sc Chemistry,Inorganic Chemistry
+M.Sc Chemistry,Spectroscopy
+B.Sc Chemistry,Atomic Structure
+B.Sc Chemistry,Chemical Bonding
+B.Sc Chemistry,Organic Chemistry
+B.Sc Chemistry,Analytical Chemistry
+B.Sc Maths,Calculus
+B.Sc Maths,Algebra
+B.Sc Maths,Differential Equations
+B.Sc Maths,Linear Algebra
+B.Sc Maths,Statistics
+M.A. English,Literary Criticism
+M.A. English,Shakespeare
+M.A. English,Modernist Literature
+M.A. English,Postcolonial Studies
+B.A. History,Ancient History
+B.A. History,Medieval India
+B.A. History,World History
+B.A. History,Modern Europe
+B.A. Economics,Microeconomics
+B.A. Economics,Macroeconomics
+B.A. Economics,Indian Economy
+B.A. Economics,Statistics for Economics
